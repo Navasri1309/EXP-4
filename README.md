@@ -37,7 +37,7 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with and without filter:
-"C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-02-27 201328.png"
+![image alt]("C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-02-27 201328.png")
 
 Bridge rectifier with and without filter:
 
