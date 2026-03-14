@@ -36,15 +36,24 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier with and without filter:
 
+"C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-12 091952.png"
 
-Bridge rectifier with filter:
+"C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-12 093340.png"
+
+Bridge rectifier with and without filter:
+
+"C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 100510.png"
+
+"C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 103023.png"
 
 TABULAR COLUMN
-Rectifier without filter
+Half wave Rectifier with and without filter
+C:\Users\B.NAVASRI\Downloads\exp[4].jpeg
+
 TABULAR COLUMN
-Rectifier with filter
+Bridge wave Rectifier with and without filter
 
 WAVEFORM:
 
