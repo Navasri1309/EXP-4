@@ -38,9 +38,9 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with and without filter:
 
-"C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-12 091952.png"
+C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-12 091952.png
 
-"C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-12 093340.png"
+C:\Users\B.NAVASRI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-12 093340.png
 
 Bridge rectifier with and without filter:
 
