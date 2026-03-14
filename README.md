@@ -36,14 +36,15 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier with and without filter:
 
-Bridge rectifier with filter:
+
+Bridge rectifier with and without filter:
 
 TABULAR COLUMN
-Rectifier without filter
+Half wave Rectifier with and without filter:
 TABULAR COLUMN
-Rectifier with filter
+Bridge wave Rectifier with and without filter:
 
 WAVEFORM:
 
