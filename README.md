@@ -52,19 +52,20 @@ Bridge rectifier with and without filter:
 
 ![alt text](<Screenshot 2026-03-14 103023.png>)
 
+TABULAR COLUMN:
 
-TABULAR COLUMN
 Half wave Rectifier with and without filter:
 
 ![alt text](half.cal.jpeg)
 
+TABULAR COLUMN:
 
-TABULAR COLUMN
 Bridge wave Rectifier with and without filter:
 
 ![alt text](full.cal.jpeg)
 
 GRAPH:
+
 Half wave :
 
 ![alt text](<graph 1 [half wave].jpeg>)
