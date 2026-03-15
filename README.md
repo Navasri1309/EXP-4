@@ -38,19 +38,36 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with and without filter:
 
+![alt text](half.circuit.jpeg)
+
+![alt text](<Screenshot 2026-03-12 091952.png>)
+
+![alt text](<Screenshot 2026-03-12 093340.png>)
+
 Bridge rectifier with and without filter:
 
+![alt text](full.circuit.jpeg)
 
+![alt text](<Screenshot 2026-03-14 100510.png>)
+
+![alt text](<Screenshot 2026-03-14 103023.png>)
 
 TABULAR COLUMN
-Half wave Rectifier with and without filter
+Half wave Rectifier with and without filter:
 
+![alt text](half.cal.jpeg)
 
 TABULAR COLUMN
-Bridge wave Rectifier with and without filter
+Bridge wave Rectifier with and without filter:
 
-WAVEFORM:
+![alt text](full.cal.jpeg)
 
+GRAPH:
+
+![alt text](<graph 1 [half wave].jpeg>)
+
+
+![alt text](<graph 2[full wave].jpeg>)
 
 RESULT:
 
